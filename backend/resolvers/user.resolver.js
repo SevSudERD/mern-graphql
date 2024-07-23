@@ -1,4 +1,4 @@
-import { transactions, users } from "../dummyData/data.js"
+import {users } from "../dummyData/data.js"
 import User from "../models/user.model.js";
 
 const userResolver = {
